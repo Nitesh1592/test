@@ -1,11 +1,1 @@
-Master Branch
-Branch b1
-Branch b2
-
-==============
-Adding new master
-=======
-
-===========Adding Branch b1 code============
-
-=========Adding branch new b1 code=============
+Master Branch Code
